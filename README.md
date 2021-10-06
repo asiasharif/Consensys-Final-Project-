@@ -6,9 +6,10 @@ An application where users can send emails, transactions and book video calls wi
 Since it is a big project, I have decided to start with creating a basic blockchain website where user can send an email to reciepient and also building a basic ethereum wallet. 
 
 user:
-1. user able to submit email on the website 
-2. user can only send one email at a time
-3. user will have reigster an account on the website 
+1. user registers account - name - intro etc
+2. user able to submit email on the website 
+3. user can only send one email at a time
+4. user will have reigster an account on the website 
 
 Transactions: 
 1. user able to send money to recepient 
@@ -16,7 +17,7 @@ Transactions:
 3. user able to send secure and faster transactions
 
 Video:
-1. user able to book video calls with inmate
+1. user able to book video calls
 2. user able to use web app to video call with end user
 
 Subscription plan:
