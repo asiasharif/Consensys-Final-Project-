@@ -5,11 +5,30 @@ An application where users can send emails, transactions and book video calls wi
 
 Since it is a big project, I have decided to start with creating a basic blockchain website where user can send an email to reciepient and also building a basic ethereum wallet. 
 
-user:
+overview:
 1. user registers account - name - intro etc
 2. user able to submit email on the website 
 3. user can only send one email at a time
 4. user will have reigster an account on the website 
+
+1. User Sketch
+Function Sketch - 
+//user account
+
+//1 - create user?
+//function createUser(username, hash) public returns(bool)
+
+//store user data - 
+// function storeUserDataHash(uint _Id, bytes32 _dataHash) public 
+
+
+//3 - update user
+// function updateUser() public returns(bool)
+//can update user info using address 
+
+
+//4 - delete user account
+//function delete_user_byId(uint _id) public returns(uint) 
 
 Transactions: 
 1. user able to send money to recepient 
@@ -33,5 +52,6 @@ Wallet:
 3. receive transaction
 4. QR code scanner
 5. users have access to a secure wallet 
+
 
 
